@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Acronym
+
+   Created by Eshwar Chaitanya Govindaraju on 02/23/17.
+   Copyright (c) 2017 Eshwar Chaitanya Govindaraju All rights reserved.
+*/
+
+
+"MeaningsSubtitleText" = "Used since %ld with %ld occurrances";
+"HeaderText" = "Meanings for \"%@\"";
+"NoResultsTitle" = "No results";
+"NoResultsMessage" = "Sorry..!! We couldn't find any meaning for \"%@\". Please try different text.";
+"VariationsHeaderText" = "Variations of \"%@\"";
+"NoVariationsLabelText" = "We couldn't find any variations for \"%@\"";
